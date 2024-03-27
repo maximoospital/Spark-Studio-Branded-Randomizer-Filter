@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Surfer",
+  "identifier": "texture:134169-f6e7fff7-7f8c-4d85-a768-9307d339d0aa",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "bbc2ccd01da467d6394c826a0c1563e8",
+  "assetLocator": "textures/Surfer.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:134171-f6e7fff7-7f8c-4d85-a768-9307d339d0aa",
+    "textureExportConfig:134173-f6e7fff7-7f8c-4d85-a768-9307d339d0aa",
+    "textureExportConfig:134175-f6e7fff7-7f8c-4d85-a768-9307d339d0aa"
+  ],
+  "filter": "nearest",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 576,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "bbc2ccd01da467d6394c826a0c1563e8",
+      "colorCount": 8743,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 11.534667694677367,
+      "pixelsHigh": 1024,
+      "pixelsWide": 576
+    }
+  ]
+}
