@@ -759,44 +759,6 @@
                 },
                 {
                   "modelName": "plane",
-                  "name": "TPI",
-                  "identifier": "plane:100475-2d1bf492-1d21-4b5b-b64b-69c755ac4340",
-                  "animationMask": {
-                    "position": false,
-                    "rotation": false,
-                    "scale": false
-                  },
-                  "cameraVisibility": "back|front",
-                  "castShadow": false,
-                  "hidden": false,
-                  "horizontalAlignment": "center",
-                  "horizontalSpacing": 0,
-                  "isMaterialIdentifierEnabled": true,
-                  "layerIdentifier": "layer0",
-                  "materialIdentifier": "defaultMaterial:172943-30251059-8419-4b7f-9a17-feeead868b0a",
-                  "outputVisibility": "preview|capture",
-                  "physicsEnabled": false,
-                  "receiveShadow": false,
-                  "renderPass": "main_scene",
-                  "tags": [],
-                  "textureHeight": 0.1,
-                  "textureWidth": 0.1,
-                  "transform": {
-                    "rx": -0.01249727699905634,
-                    "ry": 0.008874300867319107,
-                    "rz": 0.005697106011211872,
-                    "sx": 1,
-                    "sy": 1,
-                    "sz": 1,
-                    "x": -0.0011124350130558014,
-                    "y": -0.08591637760400772,
-                    "z": -0.014693349599838257
-                  },
-                  "verticalAlignment": "center",
-                  "verticalSpacing": 0
-                },
-                {
-                  "modelName": "plane",
                   "name": "PPlane",
                   "identifier": "plane:183627-30251059-8419-4b7f-9a17-feeead868b0a",
                   "animationMask": {

@@ -30,10 +30,10 @@
       "modelName": "data_texture_metadata_model",
       "name": "data_texture_metadata_model0",
       "assetDataHash": "bbc2ccd01da467d6394c826a0c1563e8",
-      "colorCount": 8743,
+      "colorCount": 3663,
       "detectedAlphaChannel": "no_alpha",
       "detectedOriginalFormat": "jpeg",
-      "entropyOfDistribution": 11.534667694677367,
+      "entropyOfDistribution": 10.428382302405565,
       "pixelsHigh": 1024,
       "pixelsWide": 576
     }
